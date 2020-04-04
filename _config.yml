@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "ROSimplify"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/winter.jpg"
   bio              : "We are passionate about robotics hope to bring more people
   over to this exciting and growing field"
   location         : "Singapore"
