@@ -4,7 +4,7 @@ permalink: /rosguides/
 title: "ROS Guides"
 author_profile: true
 header:
-  image: "/image/door.jpg"
+  image: "/images/door.jpg"
 --
 
 {% include base_path %}
