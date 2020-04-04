@@ -10,3 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: "Getting Started"
+    children:
+      - title: "ROS Guides"
+        url: /rosguides/
+
+sidebar:
+  nav: "docs"
